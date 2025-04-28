@@ -1,14 +1,14 @@
 seminars:
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/logo.png
     title: "Корпоративное право и корпоративное управление"
     excerpt: "Занятие проводит Досжанов Жаксылык Балтабекович."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Администрирование договорной работы"
     excerpt: "Занятие проводит Досжанов Жаксылык Балтабекович."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Управление дебиторской задолженностью"
     excerpt: "Занятие проводит Досжанов Жаксылык Балтабекович."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Трудовое законодательство"
     excerpt: "Занятие проводит Тасыбаева Сауле Кенесбаевна."
   - image_path: /assets/images/tasibaeva.jpg
@@ -20,15 +20,15 @@ seminars:
   - image_path: /assets/images/tasibaeva.jpg
     title: "Кадровое делопроизводство от А до Я"
     excerpt: "Занятие проводит Шелестова Наталья Викторовна."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Архивное делопроизводство"
     excerpt: "Занятие проводит Шелестова Наталья Викторовна."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Воинский учет"
     excerpt: "Занятие проводит Шелестова Наталья Викторовна."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Офис-менеджер"
     excerpt: "Занятие проводит Шелестова Наталья Викторовна."
-  - image_path: /assets/images/your-header-image.jpg
+  - image_path: /assets/images/tasibaeva.jpg
     title: "Методика и практика написания учебных пособий"
     excerpt: "Занятие проводит Аралбаева Айгерим Адиловна."
