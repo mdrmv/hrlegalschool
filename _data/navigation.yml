@@ -1,0 +1,7 @@
+main:
+  - title: "О нас"
+    url: /about/
+  - title: "Наши семинары"
+    url: /seminars/
+  - title: "Контакты"
+    url: /contact/
