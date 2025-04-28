@@ -4,8 +4,6 @@ title: "Наши семинары"
 permalink: /seminars/
 ---
 
-# Наши семинары
-
 <div style="display: flex; flex-direction: column; gap: 2em;">
 
 {% for seminar in site.data.seminars.seminars %}
