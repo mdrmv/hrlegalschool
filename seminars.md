@@ -1,11 +1,15 @@
 ---
-layout: splash
+layout: single
 title: "Наши семинары"
 permalink: /seminars/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/your-header-image.jpg
 ---
 
-{% include feature_row id='seminars' %}
+# Наши семинары
+
+{% for seminar in site.data.seminars.seminars %}
+## {{ seminar.title }}
+
+{{ seminar.excerpt }}
+
+---
+{% endfor %}
