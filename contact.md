@@ -6,10 +6,10 @@ permalink: /contact/
 
 ## Связаться с нами
 
-- [{% include icon.html icon="brands/whatsapp" %} WhatsApp](https://wa.me/77071210321)
-- [{% include icon.html icon="brands/telegram" %} Telegram](https://t.me/yourprofile)
-- [{% include icon.html icon="brands/instagram" %} Instagram](https://instagram.com/yourprofile)
-- [{% include icon.html icon="brands/facebook" %} Facebook](https://facebook.com/yourprofile)
+- <i class="fab fa-whatsapp"></i> [WhatsApp](https://wa.me/77071210321)
+- <i class="fab fa-telegram-plane"></i> [Telegram](https://t.me/yourprofile)
+- <i class="fab fa-instagram"></i> [Instagram](https://instagram.com/yourprofile)
+- <i class="fab fa-facebook"></i> [Facebook](https://facebook.com/yourprofile)
 
 ---
 
