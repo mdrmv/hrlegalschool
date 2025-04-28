@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet»"
 permalink: /
 ---
