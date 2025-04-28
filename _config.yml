@@ -4,7 +4,7 @@ description: "Курсы повышения квалификации для юр
 url: "https://ТВОЙ-ЛОГИН.github.io/sk-begimbet"
 baseurl: "/sk-begimbet"
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "cotes2020/jekyll-theme-chirpy"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
