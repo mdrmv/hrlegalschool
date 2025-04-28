@@ -7,11 +7,11 @@ header:
   overlay_filter: 0.5
   caption: "Обучение для лучших специалистов"
   actions:
-    - label: "Наши семинары"
-      url: "/seminars/"
-    - label: "О нас"
-      url: "/about/"
-    - label: "Контакты"
+    # - label: "Наши семинары"
+    #   url: "/seminars/"
+    # - label: "О нас"
+    #   url: "/about/"
+    - label: "Связаться с нами"
       url: "/contact/"
 ---
 
