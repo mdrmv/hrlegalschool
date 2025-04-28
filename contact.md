@@ -6,10 +6,13 @@ permalink: /contact/
 
 ## Связаться с нами
 
-<i class="fab fa-whatsapp"></i> [WhatsApp](https://wa.me/77071210321)
-<i class="fab fa-telegram-plane"></i> [Telegram](https://t.me/yourprofile)
-<i class="fab fa-instagram"></i> [Instagram](https://instagram.com/yourprofile)
-<i class="fab fa-facebook"></i> [Facebook](https://facebook.com/yourprofile)
+<ul>
+<li><i class="fab fa-whatsapp"></i> <a href="https://wa.me/77071210321" target="_blank">WhatsApp</a></li>
+<li><i class="fab fa-telegram-plane"></i> <a href="https://t.me/yourprofile" target="_blank">Telegram</a></li>
+<li><i class="fab fa-instagram"></i> <a href="https://instagram.com/yourprofile" target="_blank">Instagram</a></li>
+<li><i class="fab fa-facebook"></i> <a href="https://facebook.com/yourprofile" target="_blank">Facebook</a></li>
+</ul>
+
 
 ---
 
