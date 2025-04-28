@@ -1,0 +1,31 @@
+title: "Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet»"
+locale: ru-RU
+description: "Курсы повышения квалификации для юристов и кадровиков. Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet»."
+url: "https://ТВОЙ-ЛОГИН.github.io/sk-begimbet"
+baseurl: "/sk-begimbet"
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "air"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
