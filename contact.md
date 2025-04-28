@@ -6,10 +6,10 @@ permalink: /contact/
 
 ## Связаться с нами
 
-- 📱 WhatsApp: +7 707 121 03 21
-- 📱 Telegram: [Написать](https://t.me/yourprofile)
-- 📸 Instagram: [Перейти](https://instagram.com/yourprofile)
-- 📘 Facebook: [Перейти](https://facebook.com/yourprofile)
+- [{% include icon.html icon="brands/whatsapp" %} WhatsApp](https://wa.me/77071210321)
+- [{% include icon.html icon="brands/telegram" %} Telegram](https://t.me/yourprofile)
+- [{% include icon.html icon="brands/instagram" %} Instagram](https://instagram.com/yourprofile)
+- [{% include icon.html icon="brands/facebook" %} Facebook](https://facebook.com/yourprofile)
 
 ---
 
