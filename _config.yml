@@ -6,7 +6,7 @@ url: "https://ТВОЙ-ЛОГИН.github.io/sk-begimbet"
 baseurl: "/sk-begimbet"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "default"
 
 markdown: kramdown
 kramdown:

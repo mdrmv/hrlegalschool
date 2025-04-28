@@ -4,16 +4,19 @@ title: "Наши семинары"
 permalink: /seminars/
 ---
 
-<div style="display: flex; flex-direction: column; gap: 2em;">
+<section>
 
 {% for seminar in site.data.seminars.seminars %}
-  <div style="display: flex; align-items: center; gap: 1.5em;">
+<div style="margin-bottom: 2em; display: flex; align-items: center; gap: 1.5em;">
+  <div style="flex: 0 0 150px;">
     <img src="{{ seminar.image_path }}" alt="{{ seminar.title }}" style="width: 150px; height: auto; border-radius: 10px; object-fit: cover;">
-    <div>
-      <h2 style="margin: 0;">{{ seminar.title }}</h2>
-      <p style="margin: 0;">{{ seminar.excerpt }}</p>
-    </div>
   </div>
+  <div>
+    <h3 style="margin-bottom: 0.2em;">{{ seminar.title }}</h3>
+    <p style="margin: 0;">{{ seminar.excerpt }}</p>
+  </div>
+</div>
+<hr/>
 {% endfor %}
 
-</div>
+</section>
