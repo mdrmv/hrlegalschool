@@ -2,8 +2,8 @@ logo: /assets/images/logo.png
 title: "HR & Legal school"
 locale: ru-RU
 description: "Курсы повышения квалификации для юристов и кадровиков. Высшая Школа Юриста и Кадрового Администрирования «HR & Legal school»."
-url: "https://mdrmv.github.io/hrlegalschool"
-baseurl: "/hrlegalschool"
+url: "https://hrlegalschool.kz"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
