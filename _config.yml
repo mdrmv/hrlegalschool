@@ -2,7 +2,7 @@ logo: /assets/images/logo.png
 title: "SK&Begimbet"
 locale: ru-RU
 description: "Курсы повышения квалификации для юристов и кадровиков. Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet»."
-url: "https://ТВОЙ-ЛОГИН.github.io/sk-begimbet"
+url: "https://mdrmv.github.io/sk-begimbet"
 baseurl: "/sk-begimbet"
 
 remote_theme: "mmistakes/minimal-mistakes"
@@ -35,3 +35,21 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-seo-tag
+
+footer:
+  links:
+    - label: "WhatsApp"
+      icon: "fab fa-whatsapp"
+      url: "https://wa.me/77071210321"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/yourprofile"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/yourprofile"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://facebook.com/yourprofile"
+
+  copyright:
+    text: "© 2025 Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet». Все права защищены."
