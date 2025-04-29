@@ -30,6 +30,8 @@ defaults:
 # Enable search
 search:
   enabled: true
+atom_feed:
+  hide: true
 
 plugins:
   - jekyll-remote-theme
