@@ -33,11 +33,6 @@ search:
 atom_feed:
   hide: true
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-seo-tag
-
 footer:
   links:
     - label: "WhatsApp"
@@ -49,6 +44,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-instagram"
       url: "https://instagram.com/yourprofile"
+    - label: "Facebook"
+      icon: "fab fa-facebook"
+      url: "https://facebook.com/yourprofile"
 
   copyright:
-    text: "© 2025 Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet». Все права защищены."
+    text: "© 2025 HR & Legal school. Все права защищены."
+
