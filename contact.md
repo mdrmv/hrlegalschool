@@ -10,7 +10,6 @@ permalink: /contact/
 <li><i class="fab fa-whatsapp"></i> <a href="https://wa.me/77071210321" target="_blank">WhatsApp</a></li>
 <li><i class="fab fa-telegram-plane"></i> <a href="https://t.me/yourprofile" target="_blank">Telegram</a></li>
 <li><i class="fab fa-instagram"></i> <a href="https://instagram.com/yourprofile" target="_blank">Instagram</a></li>
-<li><i class="fab fa-facebook"></i> <a href="https://facebook.com/yourprofile" target="_blank">Facebook</a></li>
 </ul>
 
 

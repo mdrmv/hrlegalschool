@@ -1,9 +1,9 @@
 logo: /assets/images/logo.png
-title: "SK&Begimbet"
+title: "HR & Legal school"
 locale: ru-RU
-description: "Курсы повышения квалификации для юристов и кадровиков. Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet»."
-url: "https://mdrmv.github.io/sk-begimbet"
-baseurl: "/sk-begimbet"
+description: "Курсы повышения квалификации для юристов и кадровиков. Высшая Школа Юриста и Кадрового Администрирования «HR & Legal school»."
+url: "https://mdrmv.github.io/hrlegalschool"
+baseurl: "/hrlegalschool"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
@@ -47,9 +47,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-instagram"
       url: "https://instagram.com/yourprofile"
-    - label: "Facebook"
-      icon: "fab fa-facebook"
-      url: "https://facebook.com/yourprofile"
 
   copyright:
     text: "© 2025 Высшая Школа Юриста и Кадрового Администрирования «SK&Begimbet». Все права защищены."
