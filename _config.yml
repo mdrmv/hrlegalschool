@@ -50,17 +50,5 @@ footer:
       icon: "fab fa-instagram"
       url: "https://instagram.com/yourprofile"
 
-footer:
-  links:
-    - label: "WhatsApp"
-      icon: "fab fa-whatsapp"
-      url: "https://wa.me/77071210321"
-    - label: "Telegram"
-      icon: "fab fa-telegram"
-      url: "https://t.me/yourprofile"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://instagram.com/yourprofile"
-
   copyright:
     text: "2025 © HR & Legal school"
